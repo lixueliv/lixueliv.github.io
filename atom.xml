@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-15T12:31:50.588Z</updated>
+  <updated>2023-10-15T12:33:34.337Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="http://example.com/2023/10/14/index/"/>
     <id>http://example.com/2023/10/14/index/</id>
     <published>2023-10-14T15:55:41.270Z</published>
-    <updated>2023-10-15T12:31:50.588Z</updated>
+    <updated>2023-10-15T12:33:34.337Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>About Me</strong></p><p>Hello, I’m Xue Li, and you may call me Liv as well.</p><p>I am a passionate data scientist with a PhD degree in Astrophysics and Cosmology. I have worked as a post-doctor researcher at Tsinghua University and earned my PhD at the University of Copenhagen.</p><p>Feel free to contact me at <a href="mailto:lixue.liv@outlook.com">lixue.liv@outlook.com</a>.</p>]]></content>
+    <content type="html"><![CDATA[<p><span style="font-size: 1.5em; font-weight: bold;">About Me</span></p><p>Hello, I’m Xue Li, and you may call me Liv as well.</p><p>I am a passionate data scientist with a PhD degree in Astrophysics and Cosmology. I have worked as a post-doctor researcher at Tsinghua University and earned my PhD at the University of Copenhagen.</p><p>Feel free to contact me at <a href="mailto:lixue.liv@outlook.com">lixue.liv@outlook.com</a>.</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;strong&gt;About Me&lt;/strong&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;span style=&quot;font-size: 1.5em; font-weight: bold;&quot;&gt;About Me&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Hello, I’m Xue Li, and you may call me Liv as well.&lt;/p&gt;
-&lt;p&gt;I am a passionate data scientist with a PhD d</summary>
+&lt;p&gt;I am</summary>
       
     
     
