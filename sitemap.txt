@@ -1,7 +1,10 @@
+http://example.com/2023/10/14/index/
+http://example.com/2023/10/14/index%20copy%202/
+http://example.com/data/index.html
 http://example.com/more/index.html
 http://example.com/publications/index.html
 http://example.com/research/index.html
-http://example.com/2023/10/14/index/
+http://example.com/2023/10/14/index%20copy/
 http://example.com/talks/index.html
 http://example.com/2023/10/14/hello-world/
 http://example.com/
