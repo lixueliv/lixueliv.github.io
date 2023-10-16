@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://example.com/2023/10/14/index%20copy%203/</loc>
+    
+    <lastmod>2023-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2023/10/14/index%20copy%202/</loc>
     
     <lastmod>2023-10-16</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>http://example.com/research/index.html</loc>
-    
-    <lastmod>2023-10-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/10/14/index%20copy/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
