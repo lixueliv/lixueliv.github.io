@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-16T17:35:21.447Z</updated>
+  <updated>2023-10-16T17:43:12.271Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,26 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2023/10/14/index%20copy%202/"/>
-    <id>http://example.com/2023/10/14/index%20copy%202/</id>
-    <published>2023-10-14T15:55:41.270Z</published>
-    <updated>2023-10-16T17:35:21.447Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h3><p>Hello, I’m Xue Li, but you can call me Liv. With a PhD in Astrophysics and Cosmology, my journey has spanned the mysteries of the universe. Now, I’m on a mission to harness data for insights and innovation in the field of data science.</p><h3 id="Quick-Facts"><a href="#Quick-Facts" class="headerlink" title="Quick Facts"></a>Quick Facts</h3><ul><li>PhD in Astrophysics and Cosmology</li><li>Passion for data-driven research</li><li>Bridging the gap between astrophysics and data science</li></ul><p>Let’s connect and explore the endless possibilities.</p><p><a href="mailto:lixue.liv@outlook.com">Email Me</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;About-Me&quot;&gt;&lt;a href=&quot;#About-Me&quot; class=&quot;headerlink&quot; title=&quot;About Me&quot;&gt;&lt;/a&gt;About Me&lt;/h3&gt;&lt;p&gt;Hello, I’m Xue Li, but you can call me Liv. Wi</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title></title>
@@ -49,6 +29,26 @@
       
       
     <summary type="html">&lt;h3 id=&quot;About-Me&quot;&gt;&lt;a href=&quot;#About-Me&quot; class=&quot;headerlink&quot; title=&quot;About Me&quot;&gt;&lt;/a&gt;About Me&lt;/h3&gt;&lt;p&gt;Hello, I am Xue Li, and you can also call me L</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2023/10/14/index%20copy%202/"/>
+    <id>http://example.com/2023/10/14/index%20copy%202/</id>
+    <published>2023-10-14T15:55:41.270Z</published>
+    <updated>2023-10-16T17:35:21.447Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h3><p>Hello, I’m Xue Li, but you can call me Liv. With a PhD in Astrophysics and Cosmology, my journey has spanned the mysteries of the universe. Now, I’m on a mission to harness data for insights and innovation in the field of data science.</p><h3 id="Quick-Facts"><a href="#Quick-Facts" class="headerlink" title="Quick Facts"></a>Quick Facts</h3><ul><li>PhD in Astrophysics and Cosmology</li><li>Passion for data-driven research</li><li>Bridging the gap between astrophysics and data science</li></ul><p>Let’s connect and explore the endless possibilities.</p><p><a href="mailto:lixue.liv@outlook.com">Email Me</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;About-Me&quot;&gt;&lt;a href=&quot;#About-Me&quot; class=&quot;headerlink&quot; title=&quot;About Me&quot;&gt;&lt;/a&gt;About Me&lt;/h3&gt;&lt;p&gt;Hello, I’m Xue Li, but you can call me Liv. Wi</summary>
       
     
     
