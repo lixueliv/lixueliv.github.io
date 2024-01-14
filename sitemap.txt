@@ -1,6 +1,6 @@
+http://example.com/publications/index.html
 http://example.com/projects/index.html
 http://example.com/data/index.html
-http://example.com/publications/index.html
 http://example.com/research/index.html
 http://example.com/2023/10/14/index/
 http://example.com/more/index.html
