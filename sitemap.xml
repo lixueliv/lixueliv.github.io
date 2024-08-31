@@ -47,15 +47,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/10/14/index_bp/</loc>
-    
-    <lastmod>2023-11-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/more/index.html</loc>
     
     <lastmod>2023-10-19</lastmod>
